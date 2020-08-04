@@ -13,3 +13,8 @@
 * Hyperparameter Optimization
 * Saving model
 * Deployment Steps
+
+
+## Bug / Feature Request
+
+If you find a bug, kindly open an [issue](https://github.com/Mandal-21/NYC-Taxi-Fare/issues) here by including your search query and the expected result.
